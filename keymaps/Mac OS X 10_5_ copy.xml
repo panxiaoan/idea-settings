@@ -1,0 +1,8 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+</keymap>
