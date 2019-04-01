@@ -1,8 +1,0 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="MakeModule">
-    <keyboard-shortcut first-keystroke="ctrl meta s" />
-  </action>
-  <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="f11" />
-  </action>
-</keymap>
